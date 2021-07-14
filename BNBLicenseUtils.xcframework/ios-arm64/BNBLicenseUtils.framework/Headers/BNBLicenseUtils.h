@@ -1,4 +1,4 @@
 #import <Foundation/Foundation.h>
 
-#import <BNBLicenseUtils/BNBLicenseManager.h>
-#import <BNBLicenseUtils/BNBInformer.h>
+#import <BNBLicenseUtils/BNBAliasLicenseManager.h>
+#import <BNBLicenseUtils/BNBAliasInformer.h>
