@@ -4,37 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/BNBAliasInformer.h</key>
-		<data>
-		baE2aMX9M+Dtl5vT994EIc/CLHo=
-		</data>
-		<key>Headers/BNBAliasLicenseManager.h</key>
-		<data>
-		5PaI9KeA8MTAWofIexs2X/GCKAU=
-		</data>
 		<key>Headers/BNBLicenseUtils.h</key>
 		<data>
-		CXmtr8L+c0Y9fPe/BKGFP3z2VjY=
+		++1UnZqCxFFz5R1zlYtz/9VSyJs=
 		</data>
-		<key>Headers/alias_informer.hpp</key>
+		<key>Headers/XBNBInformer.h</key>
 		<data>
-		3JvQLLHB2kZesFlnqS4fpbsvSZk=
+		NIEBDjDvSvWZ1fjz/gxAH0cOA44=
 		</data>
-		<key>Headers/alias_license_manager.hpp</key>
+		<key>Headers/XBNBLicenseManager.h</key>
 		<data>
-		Mm1x6XMe5MVckhpFegQO0xvv5io=
-		</data>
-		<key>Headers/all.hpp</key>
-		<data>
-		0WjabbXMyL00PVpE8f/+lgC3AUY=
-		</data>
-		<key>Headers/types.hpp</key>
-		<data>
-		8D10oqaNo88t7ylmMxxahouYEjQ=
+		aTFilVfLJvEXi8pV9Ei7FYnVcdY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		IFcLsrcJ5mHcQTdQTMrgEGxtT5w=
+		6u02j+SN5pPY9Twzjll/gDghLws=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,81 +27,37 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/BNBAliasInformer.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			baE2aMX9M+Dtl5vT994EIc/CLHo=
-			</data>
-			<key>hash2</key>
-			<data>
-			x6+eAj9tbr1dvfBQelAzo7fquUScuRDX80cICt8jq44=
-			</data>
-		</dict>
-		<key>Headers/BNBAliasLicenseManager.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5PaI9KeA8MTAWofIexs2X/GCKAU=
-			</data>
-			<key>hash2</key>
-			<data>
-			T7w5z8+I5yC/pgHsvnZr8HZ8snEEjWFLcVGOzOiX0Rw=
-			</data>
-		</dict>
 		<key>Headers/BNBLicenseUtils.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CXmtr8L+c0Y9fPe/BKGFP3z2VjY=
+			++1UnZqCxFFz5R1zlYtz/9VSyJs=
 			</data>
 			<key>hash2</key>
 			<data>
-			5iKU+58cf7JSj6yftUk+ifGS9Z9gP2euArBTFxuaLcM=
+			z45mYusJvstvFeBhyK6bFQR6D0V7KtJg1BWmdOfg1h8=
 			</data>
 		</dict>
-		<key>Headers/alias_informer.hpp</key>
+		<key>Headers/XBNBInformer.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3JvQLLHB2kZesFlnqS4fpbsvSZk=
+			NIEBDjDvSvWZ1fjz/gxAH0cOA44=
 			</data>
 			<key>hash2</key>
 			<data>
-			CbiAE05eGOyEHoMuZmqa9RC8qiJp+9HO/oJS6rgPJZ0=
+			wdC3Q6P0qUkWD8dqi5q1fFYkHoAP7VB/baMqPEzn8Lc=
 			</data>
 		</dict>
-		<key>Headers/alias_license_manager.hpp</key>
+		<key>Headers/XBNBLicenseManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Mm1x6XMe5MVckhpFegQO0xvv5io=
+			aTFilVfLJvEXi8pV9Ei7FYnVcdY=
 			</data>
 			<key>hash2</key>
 			<data>
-			kGwIHz/RPhDpOFJwZehqW8q1CUzSYvt2l5wvWaoU66E=
-			</data>
-		</dict>
-		<key>Headers/all.hpp</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0WjabbXMyL00PVpE8f/+lgC3AUY=
-			</data>
-			<key>hash2</key>
-			<data>
-			WKLzIa+uJ5HYgLGFFo7cKg3G2w4/5jIBDkmRF1hfwQQ=
-			</data>
-		</dict>
-		<key>Headers/types.hpp</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8D10oqaNo88t7ylmMxxahouYEjQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			B0RIuv19LvEnOO8331Cu1wgfLt6N3jbzx49s33kfBm8=
+			j2orKYHsbJODgZiThnuTlb48W7FSnff5bCaOOyHf0hE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
