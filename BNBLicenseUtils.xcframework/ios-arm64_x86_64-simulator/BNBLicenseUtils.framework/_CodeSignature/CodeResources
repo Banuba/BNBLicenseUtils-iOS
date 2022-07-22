@@ -10,15 +10,15 @@
 		</data>
 		<key>Headers/XBNBInformer.h</key>
 		<data>
-		NIEBDjDvSvWZ1fjz/gxAH0cOA44=
+		e8FdyVsVJqpGZD3A7aYJO/bVGzo=
 		</data>
 		<key>Headers/XBNBLicenseManager.h</key>
 		<data>
-		aTFilVfLJvEXi8pV9Ei7FYnVcdY=
+		/gwEZw9AsHpEUKw3fnBJy4mpvco=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		6u02j+SN5pPY9Twzjll/gDghLws=
+		FpXiFGAR/ZzvbIsgRxJXNOE9zhk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -29,10 +29,6 @@
 	<dict>
 		<key>Headers/BNBLicenseUtils.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			++1UnZqCxFFz5R1zlYtz/9VSyJs=
-			</data>
 			<key>hash2</key>
 			<data>
 			z45mYusJvstvFeBhyK6bFQR6D0V7KtJg1BWmdOfg1h8=
@@ -40,32 +36,20 @@
 		</dict>
 		<key>Headers/XBNBInformer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NIEBDjDvSvWZ1fjz/gxAH0cOA44=
-			</data>
 			<key>hash2</key>
 			<data>
-			wdC3Q6P0qUkWD8dqi5q1fFYkHoAP7VB/baMqPEzn8Lc=
+			Ls+5HjH+T966GBRFyCB9zYgjLxzurL7qf6xt3D9WTWA=
 			</data>
 		</dict>
 		<key>Headers/XBNBLicenseManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			aTFilVfLJvEXi8pV9Ei7FYnVcdY=
-			</data>
 			<key>hash2</key>
 			<data>
-			j2orKYHsbJODgZiThnuTlb48W7FSnff5bCaOOyHf0hE=
+			M68v+6bQ9o201BCeOOPMwgKs5/+Og07IC5us/6F9Pyc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WdfQ+4RCKew/awBIyonQt7SnBFM=
-			</data>
 			<key>hash2</key>
 			<data>
 			OZhL6+QyWLVXLrIC6Hd+cVyvBAWOnyZwd5alvz7ZWEk=
