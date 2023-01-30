@@ -5,7 +5,13 @@
 @class XBNBLicenseManager;
 
 
-__attribute__((__visibility__("default"))) @interface XBNBInformer : NSObject
+
+#ifndef DJINNI_EXPORT
+    #define DJINNI_EXPORT __attribute__((__visibility__("default")))
+#endif
+
+DJINNI_EXPORT
+@interface XBNBInformer : NSObject
 
 /** Send event to Banuba Servers with custom key and value */
 + (void)sendEvent:(nullable XBNBLicenseManager *)manager
