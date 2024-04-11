@@ -1,17 +1,22 @@
-// swift-tools-version:5.3
+// swift-tools-version:5.9
+
 import PackageDescription
+
 let package = Package(
   name: "BNBLicenseUtils",
   platforms: [
-    .iOS(.v12)
+    .iOS(.v15)
   ],
   products: [
     .library(
-      name: "BNBLicenseUtils", 
-      targets: ["BNBLicenseUtils"])
+      name: "BNBLicenseUtils",
+      targets: ["BNBLicenseUtils"]
+    )
   ],
   targets: [
     .binaryTarget(
-      name: "BNBLicenseUtils", 
-      path: "BNBLicenseUtils.xcframework")
-  ])
+      name: "BNBLicenseUtils",
+      path: "BNBLicenseUtils.xcframework"
+    )
+  ]
+)
