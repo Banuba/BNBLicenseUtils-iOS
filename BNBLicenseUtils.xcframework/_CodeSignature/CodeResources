@@ -6,7 +6,7 @@
 	<dict>
 		<key>ios-arm64/BNBLicenseUtils.framework/BNBLicenseUtils</key>
 		<data>
-		PQ5ZQoKl56yHAr9WKxm/SfHfjHI=
+		x5fXYVOihnzldeLQ1oVhnmVPZsQ=
 		</data>
 		<key>ios-arm64/BNBLicenseUtils.framework/Headers/BNBLicenseUtils.h</key>
 		<data>
@@ -18,23 +18,39 @@
 		</data>
 		<key>ios-arm64/BNBLicenseUtils.framework/Headers/XBNBLicenseManager.h</key>
 		<data>
-		kIU+K8uH7J3gbwOBbn4MSmNw1lU=
+		IO106L5Bjdh9j6nc5BQigHSPTbw=
 		</data>
 		<key>ios-arm64/BNBLicenseUtils.framework/Headers/XBNBLicenseStatus.h</key>
 		<data>
-		PnxgGherJwSgoq6e4lUfyE3V4I4=
+		TYGqzc+970AZ0oi7TRbdL6NVviI=
 		</data>
 		<key>ios-arm64/BNBLicenseUtils.framework/Info.plist</key>
 		<data>
-		M6TEyeE/BM6qHZtDdN1MwPKwZuI=
+		YNp2mnnLMny6TzIVwau1qzkBXcU=
 		</data>
 		<key>ios-arm64/BNBLicenseUtils.framework/Modules/module.modulemap</key>
 		<data>
 		WdfQ+4RCKew/awBIyonQt7SnBFM=
 		</data>
+		<key>ios-arm64/BNBLicenseUtils.framework/PrivacyInfo.xcprivacy</key>
+		<data>
+		NWgAVUfPSraMLZKmFZq7t9Xsygk=
+		</data>
+		<key>ios-arm64/BNBLicenseUtils.framework/_CodeSignature/CodeResources</key>
+		<data>
+		imZn3PC15Yp5raVt7mAB7f/XwOI=
+		</data>
+		<key>ios-arm64/dSYMs/BNBLicenseUtils.framework.dSYM/Contents/Info.plist</key>
+		<data>
+		aKLCVX32lX8E9vxJ2Yu/3hqFYIs=
+		</data>
+		<key>ios-arm64/dSYMs/BNBLicenseUtils.framework.dSYM/Contents/Resources/DWARF/BNBLicenseUtils</key>
+		<data>
+		cDY1tVOHYC0H4Hdy8msdAN/J5B8=
+		</data>
 		<key>ios-arm64_x86_64-simulator/BNBLicenseUtils.framework/BNBLicenseUtils</key>
 		<data>
-		rlZWG0RdKMhLpp31huRJP2/eXNM=
+		/2LA3jwKLVIJSObBm8aZzmg4wBg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BNBLicenseUtils.framework/Headers/BNBLicenseUtils.h</key>
 		<data>
@@ -46,23 +62,35 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/BNBLicenseUtils.framework/Headers/XBNBLicenseManager.h</key>
 		<data>
-		kIU+K8uH7J3gbwOBbn4MSmNw1lU=
+		IO106L5Bjdh9j6nc5BQigHSPTbw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BNBLicenseUtils.framework/Headers/XBNBLicenseStatus.h</key>
 		<data>
-		PnxgGherJwSgoq6e4lUfyE3V4I4=
+		TYGqzc+970AZ0oi7TRbdL6NVviI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BNBLicenseUtils.framework/Info.plist</key>
 		<data>
-		k7pQiMWd7IgWqtWV+41TFk3ugDg=
+		GMplFrrG5ZsmZGcZuXApoObePAk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/BNBLicenseUtils.framework/Modules/module.modulemap</key>
 		<data>
 		WdfQ+4RCKew/awBIyonQt7SnBFM=
 		</data>
+		<key>ios-arm64_x86_64-simulator/BNBLicenseUtils.framework/PrivacyInfo.xcprivacy</key>
+		<data>
+		NWgAVUfPSraMLZKmFZq7t9Xsygk=
+		</data>
 		<key>ios-arm64_x86_64-simulator/BNBLicenseUtils.framework/_CodeSignature/CodeResources</key>
 		<data>
-		NASKpL6XH+FgUJKs4PFxOtcDutg=
+		SbR6A/rB2qetLoI1vZHu9eHGzZo=
+		</data>
+		<key>ios-arm64_x86_64-simulator/dSYMs/BNBLicenseUtils.framework.dSYM/Contents/Info.plist</key>
+		<data>
+		aKLCVX32lX8E9vxJ2Yu/3hqFYIs=
+		</data>
+		<key>ios-arm64_x86_64-simulator/dSYMs/BNBLicenseUtils.framework.dSYM/Contents/Resources/DWARF/BNBLicenseUtils</key>
+		<data>
+		/JzEhUPRaRbgAa8PBUsV5bNz410=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -71,11 +99,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PQ5ZQoKl56yHAr9WKxm/SfHfjHI=
+			x5fXYVOihnzldeLQ1oVhnmVPZsQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			8qB4G7VtLukhZjtdj0Z3OPBxRVV8ySTnLSPQB8/+xec=
+			4xyAgLpbGNE5GZeOK4ZzEoVnFuhXWi//IOfPICDY6LM=
 			</data>
 		</dict>
 		<key>ios-arm64/BNBLicenseUtils.framework/Headers/BNBLicenseUtils.h</key>
@@ -104,33 +132,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kIU+K8uH7J3gbwOBbn4MSmNw1lU=
+			IO106L5Bjdh9j6nc5BQigHSPTbw=
 			</data>
 			<key>hash2</key>
 			<data>
-			yOvP8etdEXPTrurGiVf+zdUIZHpG2VTqxWfDd7XSgXk=
+			shuGOKxbS0voICyDDOcOgDyo4PRcCtXcTWHWEsMYcAI=
 			</data>
 		</dict>
 		<key>ios-arm64/BNBLicenseUtils.framework/Headers/XBNBLicenseStatus.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PnxgGherJwSgoq6e4lUfyE3V4I4=
+			TYGqzc+970AZ0oi7TRbdL6NVviI=
 			</data>
 			<key>hash2</key>
 			<data>
-			vrNga7J23PD9ShKFNeRYwC31flzAuKXSuD9uHvcFv8w=
+			ZSPujAUXU6hYTjrKkKw72HAy9SvZAW+HL8oBvWNhZc0=
 			</data>
 		</dict>
 		<key>ios-arm64/BNBLicenseUtils.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			M6TEyeE/BM6qHZtDdN1MwPKwZuI=
+			YNp2mnnLMny6TzIVwau1qzkBXcU=
 			</data>
 			<key>hash2</key>
 			<data>
-			trh5vhx9pq/MFpjLf6FpH0DumCFvef8uYJQnAnM9n2g=
+			aH5UI2mFCP0QAxJfmjdakWujBB5vEQPjPV8i/R4JWPA=
 			</data>
 		</dict>
 		<key>ios-arm64/BNBLicenseUtils.framework/Modules/module.modulemap</key>
@@ -144,15 +172,59 @@
 			OZhL6+QyWLVXLrIC6Hd+cVyvBAWOnyZwd5alvz7ZWEk=
 			</data>
 		</dict>
+		<key>ios-arm64/BNBLicenseUtils.framework/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NWgAVUfPSraMLZKmFZq7t9Xsygk=
+			</data>
+			<key>hash2</key>
+			<data>
+			+hp7EuyRCHRMOPrI0uNZcJqcenM7X8NmlPy5QE2kV9U=
+			</data>
+		</dict>
+		<key>ios-arm64/BNBLicenseUtils.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			imZn3PC15Yp5raVt7mAB7f/XwOI=
+			</data>
+			<key>hash2</key>
+			<data>
+			XQU/5yXj5Pg+vM3eeQxYAFLH46+rbxB01l3E/gbi5+0=
+			</data>
+		</dict>
+		<key>ios-arm64/dSYMs/BNBLicenseUtils.framework.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aKLCVX32lX8E9vxJ2Yu/3hqFYIs=
+			</data>
+			<key>hash2</key>
+			<data>
+			A3uYzbnsPFVjl3pkVYG/RGtPJDCcPFRrFZ3PhFWoSsA=
+			</data>
+		</dict>
+		<key>ios-arm64/dSYMs/BNBLicenseUtils.framework.dSYM/Contents/Resources/DWARF/BNBLicenseUtils</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cDY1tVOHYC0H4Hdy8msdAN/J5B8=
+			</data>
+			<key>hash2</key>
+			<data>
+			1mHh4x3zf8/sro8gA9lvNQPlJ9unM0AKGxAMEo3Zs/Q=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/BNBLicenseUtils.framework/BNBLicenseUtils</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rlZWG0RdKMhLpp31huRJP2/eXNM=
+			/2LA3jwKLVIJSObBm8aZzmg4wBg=
 			</data>
 			<key>hash2</key>
 			<data>
-			DVowPoHmDCfBh1q6vrvrY1upfi7ues7GecJt+rGgftY=
+			5hg+WBoU7e75UIqoVPOXxrfN7s9O3kbnv34csA1YtCU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BNBLicenseUtils.framework/Headers/BNBLicenseUtils.h</key>
@@ -181,33 +253,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kIU+K8uH7J3gbwOBbn4MSmNw1lU=
+			IO106L5Bjdh9j6nc5BQigHSPTbw=
 			</data>
 			<key>hash2</key>
 			<data>
-			yOvP8etdEXPTrurGiVf+zdUIZHpG2VTqxWfDd7XSgXk=
+			shuGOKxbS0voICyDDOcOgDyo4PRcCtXcTWHWEsMYcAI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BNBLicenseUtils.framework/Headers/XBNBLicenseStatus.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PnxgGherJwSgoq6e4lUfyE3V4I4=
+			TYGqzc+970AZ0oi7TRbdL6NVviI=
 			</data>
 			<key>hash2</key>
 			<data>
-			vrNga7J23PD9ShKFNeRYwC31flzAuKXSuD9uHvcFv8w=
+			ZSPujAUXU6hYTjrKkKw72HAy9SvZAW+HL8oBvWNhZc0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BNBLicenseUtils.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			k7pQiMWd7IgWqtWV+41TFk3ugDg=
+			GMplFrrG5ZsmZGcZuXApoObePAk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ItvA/Us9uUnq973I7daGx6LagTMMg10Glf0DEh5eqtY=
+			ilgZka8duFfyjKkdvVxQ2tmvxZgzWyfYJIaV/dHgPf4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/BNBLicenseUtils.framework/Modules/module.modulemap</key>
@@ -221,15 +293,48 @@
 			OZhL6+QyWLVXLrIC6Hd+cVyvBAWOnyZwd5alvz7ZWEk=
 			</data>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/BNBLicenseUtils.framework/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NWgAVUfPSraMLZKmFZq7t9Xsygk=
+			</data>
+			<key>hash2</key>
+			<data>
+			+hp7EuyRCHRMOPrI0uNZcJqcenM7X8NmlPy5QE2kV9U=
+			</data>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/BNBLicenseUtils.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NASKpL6XH+FgUJKs4PFxOtcDutg=
+			SbR6A/rB2qetLoI1vZHu9eHGzZo=
 			</data>
 			<key>hash2</key>
 			<data>
-			7O1/qjdDlNkvPTTdSXJSuugy+2fQtw2V5Q9lHwpme6M=
+			Gspxc4IowSfOT1+ppLq2fjQJtx6AVLoteXBbunPmZt4=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/BNBLicenseUtils.framework.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aKLCVX32lX8E9vxJ2Yu/3hqFYIs=
+			</data>
+			<key>hash2</key>
+			<data>
+			A3uYzbnsPFVjl3pkVYG/RGtPJDCcPFRrFZ3PhFWoSsA=
+			</data>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/dSYMs/BNBLicenseUtils.framework.dSYM/Contents/Resources/DWARF/BNBLicenseUtils</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/JzEhUPRaRbgAa8PBUsV5bNz410=
+			</data>
+			<key>hash2</key>
+			<data>
+			DQylWJEaug2iThRR1sU1Ty0zsP6g0MjuwDyuNd8a0Zs=
 			</data>
 		</dict>
 	</dict>

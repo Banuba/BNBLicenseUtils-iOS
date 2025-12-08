@@ -30,4 +30,7 @@ DJINNI_EXPORT
 /** Returns decoded content of Client Token */
 - (nonnull NSString *)getJson;
 
+/** Returns hash of Client Token */
+- (nonnull NSString *)getChecksum;
+
 @end
